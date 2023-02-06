@@ -1,0 +1,50 @@
+.Hero_section{
+    min-height: 355px;
+    background: linear-gradient(rgba(91, 106, 122, 0.7) 0%, rgba(87, 97, 116, 0.7) 100%) 0% 0%, url(../../images/header/golden-gate-2251108_640.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+
+@media screen and (min-width: 767px) {
+    background: linear-gradient(rgba(91, 106, 122, 0.7) 0%, rgba(87, 97, 116, 0.7) 100%) 0% 0%, url(../../images/header/golden-gate-2251108_1280.jpg);
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}  
+@media screen and (min-width: 1280px) {
+    background: linear-gradient(rgba(91, 106, 122, 0.7) 0%, rgba(87, 97, 116, 0.7) 100%) 0% 0%, url(../../images/header/golden-gate-2251108_1920.jpg);
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+}
+.Hero_container{
+
+    padding: 90px 15px;
+    margin: 0 auto ;
+    text-align: center;
+
+    @media screen and (min-width: 480px) {
+        width: 480px;
+    }
+    @media screen and (min-width: 767px) {
+        width: 767px;
+    }  
+    @media screen and (min-width: 1280px) {
+        width: 1280px;
+    }
+}
+.Hero_title{
+    margin-bottom: 40px;
+    color: rgb(240, 175, 118);
+    text-shadow: black -1px 0px, black 0px 1px;
+}
+.Hero_subtitle{
+    color: white;
+    margin-bottom: 40px;
+}
+.Hero_name{
+    color: white;
+
+}
