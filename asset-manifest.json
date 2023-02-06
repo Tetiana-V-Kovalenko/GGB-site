@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GGB-site/static/css/main.ce4439aa.css",
+    "main.js": "/GGB-site/static/js/main.ca770749.js",
+    "static/media/golden-gate-2251108_1920.jpg": "/GGB-site/static/media/golden-gate-2251108_1920.90e2dc6c166f921238b7.jpg",
+    "static/media/golden-gate-2251108_1280.jpg": "/GGB-site/static/media/golden-gate-2251108_1280.98439678a7b18fd17317.jpg",
+    "static/media/golden-gate-2251108_640.jpg": "/GGB-site/static/media/golden-gate-2251108_640.ac13c6c18e7c60945bf1.jpg",
+    "index.html": "/GGB-site/index.html",
+    "main.ce4439aa.css.map": "/GGB-site/static/css/main.ce4439aa.css.map",
+    "main.ca770749.js.map": "/GGB-site/static/js/main.ca770749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4439aa.css",
+    "static/js/main.ca770749.js"
+  ]
+}
